@@ -1,0 +1,46 @@
+[USO] Robot Medico llamado - Mon Nov 17 14:55:11 2025
+[DHT] Humedad: 67% - Mon Nov 17 14:55:14 2025
+[USO] Robot Constructor llamado - Mon Nov 17 14:56:00 2025
+[USO] Robot Constructor llamado - Mon Nov 17 14:56:06 2025
+[USO] Robot Medico llamado - Mon Nov 17 14:56:19 2025
+[DHT] Temperatura: 21.0°C - Mon Nov 17 14:56:22 2025
+[USO] Robot Medico llamado - Mon Nov 17 14:56:31 2025
+[DHT] Humedad: 60% - Mon Nov 17 14:56:33 2025
+[USO] Robot Medico llamado - Mon Nov 17 14:59:06 2025
+[DHT] Humedad: 60% - Mon Nov 17 14:59:08 2025
+[USO] Robot Medico llamado - Mon Nov 17 14:59:23 2025
+[DHT] Temperatura: 21.2°C - Mon Nov 17 14:59:26 2025
+[USO] Robot Medico llamado - Mon Nov 17 14:59:42 2025
+[DHT] Temperatura: 21.2°C - Mon Nov 17 14:59:44 2025
+[USO] Robot Medico llamado - Mon Nov 17 14:59:53 2025
+[DHT] Humedad: 95% - Mon Nov 17 14:59:55 2025
+[USO] Robot Medico llamado - Mon Nov 17 15:00:05 2025
+[DHT] Temperatura: 26.7°C - Mon Nov 17 15:00:07 2025
+[USO] Robot Constructor llamado - Mon Nov 17 15:01:40 2025
+[USO] Robot Constructor llamado - Mon Nov 17 15:01:43 2025
+[USO] Robot Explorador llamado - Mon Nov 17 15:02:06 2025
+[EXPLORACION] Inicio de exploración
+[USO] Robot Constructor llamado - Mon Nov 17 15:07:12 2025
+[USO] Robot Constructor llamado - Mon Nov 17 15:23:59 2025
+[USO] Robot Constructor llamado - Mon Nov 17 15:24:02 2025
+[USO] Robot Explorador llamado - Mon Nov 17 15:24:07 2025
+[EXPLORACION] Inicio de exploración
+[USO] Robot Constructor llamado - Mon Nov 17 15:24:38 2025
+[USO] Robot Explorador llamado - Mon Nov 17 15:24:44 2025
+[EXPLORACION] Inicio de exploración
+[USO] Robot Explorador llamado - Mon Nov 17 15:29:55 2025
+[USO] Robot Constructor llamado - Mon Nov 17 15:31:32 2025
+[USO] Robot Constructor llamado - Mon Nov 17 15:31:35 2025
+[USO] Robot Explorador llamado - Mon Nov 17 15:31:38 2025
+[USO] Robot Medico llamado - Mon Nov 17 15:37:10 2025
+[DHT] Temperatura: 27.1°C - Mon Nov 17 15:37:12 2025
+[USO] Robot Medico llamado - Mon Nov 17 15:37:27 2025
+[DHT] Temperatura: 22.0°C - Mon Nov 17 15:37:30 2025
+[USO] Robot Medico llamado - Mon Nov 17 15:37:35 2025
+[DHT] Temperatura: 29.6°C - Mon Nov 17 15:37:37 2025
+[USO] Robot Medico llamado - Mon Nov 17 15:37:50 2025
+[DHT] Humedad: 95% - Mon Nov 17 15:37:53 2025
+[USO] Robot Medico llamado - Mon Nov 17 15:39:08 2025
+[DHT] Humedad: 95% - Mon Nov 17 15:39:11 2025
+[USO] Robot Medico llamado - Mon Nov 17 15:40:01 2025
+[DHT] Humedad: 95% - Mon Nov 17 15:40:04 2025
